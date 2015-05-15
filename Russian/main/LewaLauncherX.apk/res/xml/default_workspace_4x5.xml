@@ -5,8 +5,7 @@
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="1" launcher:y="0" launcher:appType="CONTACTS" />
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="2" launcher:y="0" launcher:className="me.android.browser.BrowserActivity" launcher:packageName="me.android.browser" />
     <favorite launcher:container="-101" launcher:screen="-1" launcher:x="3" launcher:y="0" launcher:appType="MMS" />
-    <appwidget launcher:className="com.lewa.weather.widget.WeatherWidgetV5_time" launcher:packageName="com.lewa.weather" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="3" launcher:spanY="2" />
-    <favorite launcher:screen="0" launcher:x="0" launcher:y="3" launcher:appType="CAMERA" />
+    <appwidget launcher:className="com.lewa.weather.widget.widget_v6_time_2x2" launcher:packageName="com.lewa.weather" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="2" launcher:spanY="2" />    <favorite launcher:screen="0" launcher:x="0" launcher:y="3" launcher:appType="CAMERA" />
     <favorite launcher:screen="0" launcher:x="1" launcher:y="3" launcher:appType="GALLERY" />
     <favorite launcher:className="com.lewa.filemanager.FileManagerMainActivity" launcher:packageName="com.lewa.filemanager" launcher:screen="0" launcher:x="2" launcher:y="3" />
     <favorite launcher:className="com.lewa.themechooser.ThemeChooser" launcher:packageName="com.lewa.themechooser" launcher:screen="0" launcher:x="3" launcher:y="3" />
