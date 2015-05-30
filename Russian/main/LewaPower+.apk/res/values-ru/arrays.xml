@@ -18,28 +18,6 @@
         <item>10 мин</item>
         <item>30 мин</item>
     </string-array>
-    <string-array name="battery_low_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-    </string-array>
-    <string-array name="battery_low_entries">
-        <item>1%</item>
-        <item>2%</item>
-        <item>3%</item>
-        <item>4%</item>
-        <item>5%</item>
-        <item>10%</item>
-        <item>15%</item>
-        <item>20%</item>
-        <item>25%</item>
-    </string-array>
     <string-array name="sp_mode">
         <item>Экономия энергии</item>
         <item>Режим сна</item>
