@@ -490,10 +490,10 @@
 
 
     <string-array name="core_nums_strs">
-        <item>(одно ядро)</item>
-        <item>(два ядра)</item>
-        <item>(четыре ядра)</item>
-        <item>(восемь ядер)</item>
+        <item>(1 ядро)</item>
+        <item>(2 ядра)</item>
+        <item>(4 ядра)</item>
+        <item>(8 ядер)</item>
     </string-array>
     <string-array name="dualsim_summaries">
         <item>SIM1</item>
@@ -510,8 +510,8 @@
 
 
     <string-array name="simguide_datauseage">
-        <item>Мб/мес.</item>
-        <item>Гб/мес.</item>
+        <item>МБ/мес.</item>
+        <item>ГБ/мес.</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>1 секунды</item>
