@@ -27,15 +27,6 @@
         <item>10 мин.</item>
         <item>30 мин.</item>
     </string-array>
-
-
-
-
-
-
-
-
-
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 сек.</item>
@@ -46,16 +37,6 @@
         <item>10 мин.</item>
         <item>30 мин.</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
         <item>5 сек.</item>
@@ -67,17 +48,6 @@
         <item>10 мин.</item>
         <item>30 мин.</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
@@ -97,13 +67,6 @@
         <item>Быстрая</item>
         <item>Очень быстрая</item>
     </string-array>
-
-
-
-
-
-
-
     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
         <item>Низкий</item>
@@ -111,27 +74,6 @@
         <item>Высокий</item>
         <item>Очень высокий</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="wifi_status">
         <item></item>
         <item>Поиск...</item>
@@ -160,29 +102,6 @@
         <item>Заблокировано</item>
         <item>Избежание слабого сигнала</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="wifi_p2p_wps_setup">
         <item>PUSH-кнопка</item>
         <item>PIN с обнаруженного устройства</item>
@@ -217,31 +136,16 @@
         <item>Только при питании от сети</item>
         <item>Никогда</item>
     </string-array>
-
-
-
-
-
     <string-array name="wifi_frequency_band_entries">
         <item>Авто</item>
         <item>Только 5 ГГц</item>
         <item>Только 2,4 ГГц</item>
     </string-array>
-
-
-
-
-
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
         <item>Количество запусков</item>
         <item>Название приложения</item>
     </string-array>
-
-
-
-
-
     <string-array name="wifi_phase2_entries">
         <item>Нет</item>
         <item>PAP</item>
@@ -262,81 +166,37 @@
         <item>Оповещение</item>
         <item>Виброзвонок</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="apn_auth_entries">
         <item>Нет</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP или CHAP</item>
     </string-array>
-
-
-
-
-
-
     <string-array name="apn_protocol_entries">
         <item>Протокол IPv4</item>
         <item>Протокол IPv6</item>
         <item>Протокол IPv4/IPv6</item>
     </string-array>
-
-
-
-
-
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Не указано</item>
     </string-array>
-
-
-
-
-
     <string-array name="app_install_location_entries">
         <item>Внутренняя память</item>
         <item>SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
-
-
-
-
-
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
         <item>Средняя</item>
         <item>Большая</item>
     </string-array>
-
-
-
-
-
     <string-array name="hdcp_checking_titles">
         <item>Никогда не проверять</item>
         <item>Проверять только содержание DRM</item>
         <item>Всегда проверять</item>
     </string-array>
-
-
-
-
-
     <string-array name="hdcp_checking_summaries">
         <item>Не использовать проверку HDCP</item>
         <item>Использовать проверку HDCP только для содержания DRM</item>
@@ -351,15 +211,6 @@
         <item>Анимация 5,0x</item>
         <item>Анимация 10,0x</item>
     </string-array>
-
-
-
-
-
-
-
-
-
     <string-array name="transition_animation_scale_entries">
         <item>Отключено</item>
         <item>Анимация 0,5x</item>
@@ -369,15 +220,6 @@
         <item>Анимация 5,0x</item>
         <item>Анимация 10,0x</item>
     </string-array>
-
-
-
-
-
-
-
-
-
     <string-array name="animator_duration_scale_entries">
         <item>Отключено</item>
         <item>Анимация 0,5x</item>
@@ -387,15 +229,6 @@
         <item>Анимация 5,0x</item>
         <item>Анимация 10,0x</item>
     </string-array>
-
-
-
-
-
-
-
-
-
     <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
         <item>720x480 (MDPI)</item>
@@ -403,25 +236,12 @@
         <item>1920x1080 (XHDPI)</item>
         <item>1280x720 + 1920x1080</item>
     </string-array>
-
-
-
-
-
-
-
     <string-array name="enable_opengl_traces_entries">
         <item>Нет</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Вызов стека в glGetError</item>
     </string-array>
-
-
-
-
-
-
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
         <item>Без фоновых процессов</item>
@@ -430,14 +250,6 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
-
-
-
-
-
-
-
-
     <string-array name="vpn_types">
         <item>PPTP</item>
         <item>L2TP/IPSec PSK</item>
@@ -469,13 +281,6 @@
         <item>Шимпанзе</item>
         <item>Макака</item>
     </string-array>
-
-
-
-
-
-
-
     <string-array name="security_settings_premium_sms_values">
         <item>Спрашивать</item>
         <item>Запретить</item>
@@ -485,10 +290,6 @@
         <item>Графический</item>
         <item>Проценты</item>
     </string-array>
-
-
-
-
     <string-array name="core_nums_strs">
         <item>(1 ядро)</item>
         <item>(2 ядра)</item>
@@ -504,11 +305,6 @@
         <item>Красный</item>
         <item>Желтый</item>
     </string-array>
-
-
-
-
-
     <string-array name="simguide_datauseage">
         <item>МБ/мес.</item>
         <item>ГБ/мес.</item>
@@ -548,51 +344,26 @@
         <item>Стандартно</item>
         <item>Сильно</item>
     </string-array>
-
-
-
-
-
     <string-array name="bird_hand_entries">
         <item>Слева</item>
         <item>Справа</item>
         <item>Переключаемое</item>
     </string-array>
-
-
-
-
-
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Первые 4 цифры</item>
         <item>Последние 4 цифры</item>
         <item>Не отображать</item>
     </string-array>
-
-
-
-
-
     <string-array name="gemini_sim_roaming_reminder_entries">
         <item>Однократно</item>
         <item>Всегда</item>
         <item>Никогда</item>
     </string-array>
-
-
-
-
-
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (авторежим)</item>
         <item>Только для WCDMA</item>
         <item>Только GSM</item>
     </string-array>
-
-
-
-
-
     <string-array name="wifi_security_wfa">
         <item>@string/wifi_security_none</item>
         <item>WEP</item>
@@ -660,101 +431,22 @@
         <item>Отключить при бездействии в течение 5 мин.</item>
         <item>Отключить при бездействии в течение 10 мин.</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="hdmi_video_mode_entries">
         <item>Полный экран</item>
         <item>Лучшее заполнение</item>
         <item>Оригинальный размер</item>
     </string-array>
-
-
-
-
-
     <string-array name="hdmi_color_space_entries">
         <item>RGB</item>
         <item>YCbCr444</item>
         <item>YCbCr422</item>
     </string-array>
-
-
-
-
-
     <string-array name="hdmi_deep_color_entries">
         <item>8 бит</item>
         <item>Авто</item>
         <item>10 бит</item>
         <item>12 бит</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
-
-
     <string-array name="wifi_WEP_security_type">
         <item>Авто</item>
         <item>WEP ASCII</item>
@@ -764,26 +456,14 @@
         <item>IPv4</item>
         <item>IPv4/IPv6</item>
     </string-array>
-
-
-
-
     <string-array name="usb_tether_type_entries">
         <item>Windows(RNDIS)</item>
         <item>Linux/Mac OS(EEM)</item>
     </string-array>
-
-
-
-
     <string-array name="wifi_ap_wps_mode_entries">
         <item>PUSH-кнопка</item>
         <item>PIN от клиента</item>
     </string-array>
-
-
-
-
     <string-array name="wifi_ap_max_connection_entries">
         <item>1 пользователь</item>
         <item>2 пользователя</item>
@@ -794,24 +474,10 @@
         <item>7 пользователей</item>
         <item>8 пользователей</item>
     </string-array>
-
-
-
-
-
-
-
-
-
-
     <string-array name="mouse_primary_button_titles">
         <item>Мышка под правую руку</item>
         <item>Мышка под левую руку</item>
     </string-array>
-
-
-
-
     <string-array name="usb_sharing_pc_system_entry">
         <item>@string/wifi_unspecified</item>
         <item>Windows XP</item>
