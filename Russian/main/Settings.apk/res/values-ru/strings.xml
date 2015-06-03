@@ -2727,6 +2727,7 @@
     <string name="locale_language_zh_cn">Китайский (упрощ.)</string>
     <string name="locale_language_zh_tw">Китайский</string>
     <string name="locale_language_en">Английский</string>
+    <string name="locale_language_ru">Русский</string>
     <string name="wizard_language_setting">Выбор языка</string>
     <string name="wizard_network_setting">Выбор сети</string>
     <string name="wizard_account_setting">Lewa-аккаунт</string>
