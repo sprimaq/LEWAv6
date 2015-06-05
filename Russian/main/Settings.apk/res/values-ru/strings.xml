@@ -1046,8 +1046,8 @@
     <string name="wifi_disabled_network_failure">Включено</string>
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
     <string name="wifi_not_in_range">Недоступна</string>
-    <string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
-    <string name="wifi_wps_available_second_item">" (доступна защищенная сеть)"</string>
+    <string name="wifi_wps_available_first_item">Доступно WPS</string>
+    <string name="wifi_wps_available_second_item">" (доступно WPS)"</string>
     <string name="wifi_secured_first_item">Защита %1$s</string>
     <string name="wifi_secured_second_item">, защита %1$s</string>
 
@@ -1103,7 +1103,7 @@
     <string name="wifi_p2p_persist_network">Запомнить это соединение</string>
     <string name="wifi_p2p_menu_search">Поиск</string>
     <string name="wifi_p2p_menu_searching">Поиск…</string>
-    <string name="wifi_p2p_menu_rename">Переименовать устройство</string>
+    <string name="wifi_p2p_menu_rename">Переимен.</string>
     <string name="wifi_p2p_peer_devices">Устройства сети</string>
     <string name="wifi_p2p_remembered_groups">Запомненные группы</string>
     <string name="wifi_p2p_failed_connect_message">Нет соединения</string>
